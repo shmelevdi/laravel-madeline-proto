@@ -1,5 +1,5 @@
 {
-    "name": "setiawanhu/laravel-madeline-proto",
+    "name": "shmelevdi/laravel-madeline-proto",
     "description": "A third party Telegram client library danog/MadelineProto wrapper for Laravel",
     "type": "library",
     "license": "AGPL-3.0-only",
